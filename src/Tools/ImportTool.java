@@ -10,8 +10,8 @@ public class ImportTool {
 
 	public static void main(String[] args) {
 		System.out.println("Hello World!");
-		// testOracle();
-		writeData();
+		 testOracle();
+//		writeData();
 	}
 
 	/**
