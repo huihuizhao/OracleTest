@@ -10,8 +10,8 @@ public class ImportTool {
 
 	public static void main(String[] args) {
 		System.out.println("Hello World!");
-		// testOracle();
-		writeData();
+		 testOracle();
+//		writeData();
 	}
 
 	/**
@@ -56,7 +56,6 @@ public class ImportTool {
 			}
 		}
 	}
-
 	// public static void writeData() {
 	//
 	// Connection con = null;// 创建一个数据库连接
